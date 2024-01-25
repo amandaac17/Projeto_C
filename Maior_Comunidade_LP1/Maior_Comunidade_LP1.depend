@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/01_main.c
+	"my_header.h"
+
+1701566254 .h"
+
+1701563825 /home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701566254 
+
+1701460830 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/04_imprimeLista.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/02_recebeArquivo.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/03_retornaLista.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/05_criaMatriz.c
+	"my_header.h"
+
+1701521731 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/06_populaMatriz.c
+	"my_header.h"
+
+1701381902 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/07_imprimeMatriz.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/08_criaListaDeConexao.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/09_ordenaListaDeConexao.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/10_criaVetorPessoas.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/11_criaVetorMaiorComunidade.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/12_criaStructComunidade.c
+	"my_header.h"
+
+1701563473 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/13_criaArquivoSaida.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\01_main.c
+	"my_header.h"
+
+1701566254 c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\02_recebearquivo.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\03_retornalista.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\04_imprimelista.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\05_criamatriz.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\06_populamatriz.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\07_imprimematriz.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\08_crialistadeconexao.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\09_ordenalistadeconexao.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\10_criavetorpessoas.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\11_criavetormaiorcomunidade.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\12_criastructcomunidade.c
+	"my_header.h"
+
+1701566254 source:c:\users\user\downloads\maior_comunidade_versãofinal-20231203t011338z-001\maior_comunidade_versãofinal\maior_comunidade_lp1\13_criaarquivosaida.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/01_main.c
+	"my_header.h"
+
+1701548254 /home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/02_recebeArquivo.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/03_retornaLista.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/04_imprimeLista.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/05_criaMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/06_populaMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/07_imprimeMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/08_criaListaDeConexao.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/09_ordenaListaDeConexao.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/10_criaVetorPessoas.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/11_criaVetorMaiorComunidade.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/12_criaStructComunidade.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1-20231203T014917Z-001/Maior_Comunidade_LP1/13_criaArquivoSaida.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/01_main.c
+	"my_header.h"
+
+1701548254 /home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/02_recebeArquivo.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/03_retornaLista.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/04_imprimeLista.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/05_criaMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/06_populaMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/07_imprimeMatriz.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/08_criaListaDeConexao.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/09_ordenaListaDeConexao.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/10_criaVetorPessoas.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/12_criaStructComunidade.c
+	"my_header.h"
+
+1701548254 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/13_criaArquivoSaida.c
+	"my_header.h"
+
+1701696634 source:/home/amanda_lab/Downloads/Maior_Comunidade_LP1certoooo/Maior_Comunidade_LP1/11_criaVetorMaiorComunidade.c
+	"my_header.h"
+
